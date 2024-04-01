@@ -126,7 +126,7 @@ form select:hover {
     transform: translateX(-50%);
     width: 400px;
     padding: 15px 20px;
-    border: 2px solid var(--blue);
+    border: 0px;
     border-radius: 6px;
     color: var(--text-color-2);
     background: var(--light-blue);
